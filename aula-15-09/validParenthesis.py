@@ -4,9 +4,8 @@ class Solution:
     # Time: O(n) Space: O(n)
     def isValid(self, s: str) -> bool:
         stack = []
-        pair = {"(": ")", "[": "]", "{": "}"}
         for char in s:
-            if char in pair:
+            if char in {"(", "[", "{"}:
                 stack.append(char)
                 continue
 

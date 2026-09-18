@@ -3,7 +3,7 @@
 class Solution:
     # Time: O(n) Space: O(1)
     def longestWinningStreak(self, s: str) -> int:
-        max_streak = 0
+        max_streak = 0 
         current_streak = 0
 
         for char in s:
