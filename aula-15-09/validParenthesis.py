@@ -19,6 +19,7 @@ class Solution:
 
         return len(stack) == 0
 
+    # Time: O(n) Space: O(n) 
     def isValidBruteForce(self, s: str) -> bool:
         while '()' in s or '{}' in s or '[]' in s:
             s = s.replace('()', '')
