@@ -1,3 +1,4 @@
+# Arrays
 # Giving a string of match results W, L, D, return the length of the longest winning streak (consecutive W's) in the string.
 
 class Solution:

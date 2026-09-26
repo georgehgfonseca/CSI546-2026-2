@@ -1,3 +1,4 @@
+# Hash-map
 # https://neetcode.io/problems/two-integer-sum/question
 
 class Solution:

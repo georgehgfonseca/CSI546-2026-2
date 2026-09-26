@@ -1,3 +1,4 @@
+# Arrays Sliding Window
 # https://neetcode.io/problems/buy-and-sell-crypto/question
 
 class Solution:

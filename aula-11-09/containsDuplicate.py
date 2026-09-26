@@ -1,3 +1,4 @@
+# Hash-set
 # https://neetcode.io/problems/duplicate-integer/question
 
 class Solution:

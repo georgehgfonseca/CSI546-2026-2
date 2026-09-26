@@ -1,3 +1,4 @@
+# Heaps Arrays
 # https://neetcode.io/problems/last-stone-weight/question
 
 class Solution:
