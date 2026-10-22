@@ -4,6 +4,7 @@
 class Solution:
     def lastStoneWeight(self, stones: list[int]) -> int:
         pass
+        
 
 testCases = [
     ([2, 3, 6, 2, 4], 1),
